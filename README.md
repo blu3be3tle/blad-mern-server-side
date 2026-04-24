@@ -1,4 +1,4 @@
-# BLAD MERN Server Side
+# BLAD MERN Server
 
 Backend API for the **BLAD** application built with the **MERN** stack (MongoDB, Express.js, React, Node.js).
 
